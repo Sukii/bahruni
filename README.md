@@ -1,4 +1,4 @@
-# Al bahruni
+# Al Biruni
 
 [Al-Biruni's India](http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_5949073_001/index.html)
 
