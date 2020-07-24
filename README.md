@@ -2,7 +2,7 @@
 
 [Al-Biruni's India](http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_5949073_001/index.html)
 
-[Al bahruni's measurement of the radius of earth](https://owlcation.com/stem/How-to-Determin-the-Radius-of-the-Earth-Al-Birunis-Classic-Experiment)
+[Al Biruni's measurement of the radius of earth](https://owlcation.com/stem/How-to-Determin-the-Radius-of-the-Earth-Al-Birunis-Classic-Experiment)
 
 
 "Aryabhata rejected the story of a daanava (demon) named Rahu swallowing the sun or his tail Ketu covering the moon during eclipses. Eclipses occurred due to shadows, he said, and he did not see any shadow of a tail!
