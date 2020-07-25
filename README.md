@@ -13,3 +13,6 @@ However, one of these, Varahamihira (505-587 CE), dismissed Brahmagupta's argume
 One thing I learnt from all this was that the debate between mythology and 'rational' science in India is at least as old as Aryabhata and Brahmagupta and, to this day, has not been resolved in the Indian popular thinking on science."
 -- [Roddam Narasimha](https://www.rediff.com/news/interview/why-and-how-did-science-in-india-stagnate/20150814.htm)
 
+
+Although Roddam Narasimha slurs over all the intrigues of brahminism, this is very well captured by [Abha Sur](https://www.amazon.com/gp/product/8189059327/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+
