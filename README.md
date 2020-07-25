@@ -1,11 +1,4 @@
-# Al Biruni
-
-[Al-Biruni's India - Short Modern Summary](https://selfstudyhistory.com/2015/09/30/al-birunis-india/)
-
-[Al-Biruni's India](http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_5949073_001/index.html)
-
-[Al Biruni's measurement of the radius of earth](https://owlcation.com/stem/How-to-Determin-the-Radius-of-the-Earth-Al-Birunis-Classic-Experiment)
-
+# On the state of modern Indian science - cow-dung, diamonds and rust
 
 "Aryabhata rejected the story of a daanava (demon) named Rahu swallowing the sun or his tail Ketu covering the moon during eclipses. Eclipses occurred due to shadows, he said, and he did not see any shadow of a tail!
 Brahmagupta, who came more than a century later, was a great mathematician himself but did not agree with Aryabhata about rejecting the Rahu-Ketu myth and criticised him and his followers scathingly.
@@ -14,7 +7,7 @@ One thing I learnt from all this was that the debate between mythology and 'rati
 -- [Roddam Narasimha](https://www.rediff.com/news/interview/why-and-how-did-science-in-india-stagnate/20150814.htm)
 
 
-Although Roddam Narasimha slurs over all the intrigues of brahminism, this is very well captured by [Abha Sur](https://www.amazon.com/gp/product/8189059327/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0).
+Although Roddam Narasimha slurs over all the intrigues of brahminism in his books, this is very well captured by [Abha Sur](https://www.amazon.com/gp/product/8189059327/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0).
 
 CV Raman discovered Raman scattering (along with K.S.Krishnan, who made imortant contributions to science, but remains quite inconspicuous). It was no less than Albert Einstein who first clearly emphasized the importance of Raman's discovery and mentioned that it shows unlike Newtonian optics it emphasized the origin light spectrum in the material property of matter. After discovery of atomic spectrum by Bohr, this further opened-up the field of atmic spectroscopy. Einstein further discovered the corpuscular nature of light (for which he was given Nobel prize) emphasizing the material nature of light particle itself.
 Megnath Saha emphasized it further by explaining how by studying the optical spectrum of light originating from stars we can explain the material composition of stars. The role of CV Raman in refusing to sopport the cause of Nobel prize for his important contributions to Plasma physiccs is well known. It was the same arrogant attitude of CV Raman that caused the Lahore-born Chandrasekar (nephew of CV Raman) to leave India for Cambridge (where he faced bitter resistance for his theory of black holes from Cambridge patriarch Erwin Schrodinger, who played important role in confirming the predictions of special relativity).
@@ -25,8 +18,18 @@ Recently the religious obscuratists and RSS brahmins have been appropriating the
 
 No less a person than George Sudarshan, who was refused three nobel prizes (including one for grand unification), who converted from being a Syrian Christian to Hindu by Brahma Samaj, only to be left high and dry by the brahmin ruling class for not being through-born. He was booted-out as the director of the Instiute of Mathematical Sciences by various back door intrigues and manuevers, typical of the brahmin ruling class and died a bitter man neglected by both his own country and the academicians of the world of science. His only consolation came from the foremost scientist of Asian-origin Abdus Salam, who received Nobel prize for his contributions to the grand unification theory in physics. As soon as Salam became director of International Centre for Theoretical Physics, Trieste, he constituted an important award in physics and awarded it to his good friend in 1985 [Physics Prize of the Third World Academy of Sciences](https://www.ias.ac.in/article/fulltext/reso/024/02/0245-0252).
 
+In computer science, in the late 1950s, the Indian government tersely told the Indian Statistical Institute not develop computers but to concentrate on statistics. Meghnad Saha also emphasized how important it is to develop instruments in technology. It can also be said that the telescope created Galileo and Newton. UN Sinha pioneered the creation of the first supercomputer, FloSolver in NAL and has languished without recognition and infact, as further insult to him, the government side-lined his efforts and through C-DAC created PARAM 9000. Of course, there was [no market](https://www.indiatoday.in/magazine/science-and-technology/story/19930430-indias-success-in-developing-high-speed-processors-marred-by-poor-marketing-810981-1993-04-30) for these products in India, due to primitive state of development of Indian industries. Recently, the ruling class in IITs have concentrated more on virtual world, mobiel apps and have plans to get rid of the practical workshops that teaches carpentry, iron casting etc., a job that only perons of lower caste/class do in India.
+
 As emphasized by [Venki](https://www.thehindu.com/sci-tech/science/science-depends-on-being-able-to-question-authority/article30589249.ece) science will only flourish in a society that can tolerate questioning it's ruling class. Paying lip service to science through [Science Congress tamashas](https://thewire.in/politics/not-a-congress-but-a-big-fat-indian-science-wedding) will not serve any purpose other than degrading it.
 
-Jawaharlal Nehru created and declared that the engineering and science institutes as the modern temples of progress, but it also meant that it has been captured by the same ruling class that has perpetuated religious obscurantism in Indian polity, so science in India remains in lamentable condition, both at instituitional and social level, struck in a semi-feudal semi-capitalist society unable to wriggle out its religious Hindutva cucoon.
+Jawaharlal Nehru created and declared that the engineering and science institutes as the modern temples of progress, but it also meant that it has been captured by the same ruling class that has perpetuated religious obscurantism in Indian polity, so science in India remains in lamentable condition, both at instituitional and social level, struck in a semi-feudal semi-capitalist society unable to wriggle out its religious Hindutva cucoon. The future of the world of science belongs to the young students who are now branded as "global warming activits", "urban naxals" and "black rights". It is to them that we have to look for a bright future, especially to rescue from this stagnant religious obscurantism glorifying the rituals vedic times that pertained mostly to development of children and cattle. Even the identifying the diamonds from cow dung in those historic times, such as Panini's grammar rules and it's connection with modern EBNF rules of context-free grammar was made by Naom Chomsky, an "urban naxal" of the United States. Marvin Minsky and Chomsky's challenges to the modern AI and neural network community are being met by an army of AI developers for monopoly corporations. As Marx emphasized the important role played by capitalism in the further deveopment of productive forces. However, as emphasized by Albert Eistein in his article, [Why Socialism](https://monthlyreview.org/2009/05/01/why-socialism/), in the age of Coronavirus this becomes very clear to every one, as the nuts and bolts of capitalism comes off one by one. 
+
+Further References
+
+1. [Al-Biruni's India - Short Modern Summary](https://selfstudyhistory.com/2015/09/30/al-birunis-india/)
+
+2. [Al-Biruni's India](http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_5949073_001/index.html)
+
+3. [Al Biruni's measurement of the radius of earth](https://owlcation.com/stem/How-to-Determin-the-Radius-of-the-Earth-Al-Birunis-Classic-Experiment)
 
 
